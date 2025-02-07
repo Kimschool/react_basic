@@ -1,3 +1,10 @@
+# 구성
+- API : express사용
+- css : bootstrap사용
+- 기능 : 영상 업로드 과제, 제출
+- 포인트 const, hook, jsx의 응용가능
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
